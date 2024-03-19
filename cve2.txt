@@ -1,0 +1,8 @@
+CVE-2024-21400 - Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability
+Microsoft fixed a vulnerability in Azure Kubernetes Service that could allow attackers to gain elevated privileges and steal credentials.
+"An attacker who successfully exploited this vulnerability could steal credentials and affect resources beyond the security scope managed by Azure Kubernetes Service Confidential Containers (AKSCC)," explains a Microsoft security advisory.
+The flaw was discovered by Yuval Avrahami.
+CVE-2024-26199 - Microsoft Office Elevation of Privilege Vulnerability
+Microsoft has fixed a Office vulnerability allowing any authenticated user to gain SYSTEM privileges.
+"Any authenticated user could trigger this vulnerability. It does not require admin or other elevated privileges," explains Microsoft.
+The flaw was discovered by Iván Almuiña from Hacking Corporation Sàrl.
