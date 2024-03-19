@@ -1,0 +1,22 @@
+CVE-2024-21400 - Microsoft Azure Kubernetes Service Confidential Container Elevation of Privilege Vulnerability
+Microsoft fixed a vulnerability in Azure Kubernetes Service that could allow attackers to gain elevated privileges and steal credentials.
+"An attacker who successfully exploited this vulnerability could steal credentials and affect resources beyond the security scope managed by Azure Kubernetes Service Confidential Containers (AKSCC)," explains a Microsoft security advisory.
+The flaw was discovered by Yuval Avrahami.
+CVE-2024-26199 - Microsoft Office Elevation of Privilege Vulnerability
+Microsoft has fixed a Office vulnerability allowing any authenticated user to gain SYSTEM privileges.
+"Any authenticated user could trigger this vulnerability. It does not require admin or other elevated privileges," explains Microsoft.
+The flaw was discovered by Iván Almuiña from Hacking Corporation Sàrl.
+CVE-2024-20671 - Microsoft Defender Security Feature Bypass Vulnerability
+Microsoft has fixed a Microsoft Defender vulnerability that could 
+"An authenticated attacker who successfully exploited this vulnerability could prevent Microsoft Defender from starting," explains Microsoft.
+However, this will be resolved by Windows Defender Antimalware Platform updates that are automatically installed on Windows devices.
+This flaw is fixed in version 4.18.24010.12 of the Antimalware Platform.
+Microsoft says that this flaw was discovered by Manuel Feifel with Infoguard (Vurex).
+CVE-2024-21411 - Skype for Consumer Remote Code Execution Vulnerability
+Microsoft has fixed a remote code execution vulnerability Skype for Consumer that can be triggered by a malicious link or image.
+"An attacker could exploit the vulnerability by sending the user a malicious link or a malicious image via Instant Message and then convincing the user to click the link or image," explains Microsoft.
+Microsoft says this flaw was discovered by Hector Peralta  and Nicole Armua working with Trend Micro Zero Day Initiative.
+CVE-2024-26199 - Microsoft Office Elevation of Privilege Vulnerability
+Microsoft has fixed a Office vulnerability allowing any authenticated user to gain SYSTEM privileges.
+"Any authenticated user could trigger this vulnerability. It does not require admin or other elevated privileges," explains Microsoft.
+The flaw was discovered by Iván Almuiña from Hacking Corporation Sàrl.
